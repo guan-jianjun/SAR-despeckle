@@ -1,5 +1,5 @@
 # SAR-despeckle
-Supervised Deep Learning Training Dataset for SAR despeckling. 
+Supervised Deep Learning **Training Dataset** and **Network** for SAR despeckling. 
 
 # Dataset 
 We are now making the training dataset open-source. If you download and use this dataset, please cite our paper published in J-STARS.
