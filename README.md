@@ -12,7 +12,7 @@ The dataset contains **gt image**, **original SAR intensity image** and **origin
 
 For more detailed information, please refer to the paper.
 
-# Phase-Guided Deep Despeckling Network(SAR-PGD2Net)
+# Phase-Guided Deep Despeckling Network(PGD2Net)
 To make better use of the near-real datasets and effectively suppress speckle, we propose a deep learning architecture called PGD2Net that can achieve near real-time performance and estimates the high-quality clean intensity image. 
 
 We first construct a speckle noise estimation subnetwork (SNENet) to generate a speckle noise image by extracting the homogeneous noise. Subsequently, we establish another subnetwork (dual-branch denoising subnetwork, DBDNet) to conduct feature interaction and estimate the clean intensity image based on a specially designed cross-attention module. PGD2Net consists of the above two subnetworks and is optimized by a combined loss function.
