@@ -2,7 +2,8 @@
 Supervised Deep Learning Training Dataset for SAR despeckling. 
 
 # Dataset 
-We are now making the training dataset open-source (https://drive.google.com/file/d/1p4w7WNPiqvK2haz53uNqy_ewubcoshle/view?usp=sharing). If you download and use this dataset, please cite our paper published in J-STARS.
+We are now making the training dataset open-source. If you download and use this dataset, please cite our paper published in J-STARS.
+
 The dataset is too large and is hosted on Google Drive. You can download it via the following link:
 [Download Dataset](https://drive.google.com/file/d/1p4w7WNPiqvK2haz53uNqy_ewubcoshle/view?usp=sharing)
 
