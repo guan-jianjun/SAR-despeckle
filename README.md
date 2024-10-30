@@ -1,8 +1,8 @@
 # SAR-despeckle
-
+Supervised Deep Learning Training Dataset for SAR despeckling. 
 
 # Dataset 
-Supervised Deep Learning Training Dataset for SAR despeckling. If you download and use this dataset, please cite the following paper. 
+If you download and use this dataset, please cite the following paper. 
 
 Owing to the unique geometric distortions as well as complicated speckle noise in SAR images it is extremely difficult to simulate geometric distortion similar to real SAR image. In addition, simulating noise as uniform and single-distributed also fails to fully represent speckle complexity. The article uses the temporal and spatial information of time series SAR images to create near-real SAR intensity datasets using an adaptive multilook method called generalized likelihood ratio test(GLRT), which outstandingly solves the problems encountered with simulated data. This dataset effectively preserves local features, structures, and edge details while significantly reducing oversmoothing and avoiding the introduction of filtering artifacts.
 
